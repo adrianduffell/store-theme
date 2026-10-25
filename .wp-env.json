@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/wp-env.json",
+  "port": 9999,
+  "plugins": [
+    "https://downloads.wordpress.org/plugin/woocommerce.zip",
+    "https://github.com/adrianduffell/outletpro/releases/latest/download/outletpro.zip"
+  ],
+  "themes": [
+    ".",
+    "https://downloads.wordpress.org/theme/purple.zip"
+  ]
+}
