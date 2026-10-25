@@ -1,0 +1,13 @@
+Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Regular price,Sale price,Categories,Images
+simple,RD-1001,Relaxed Dress,1,0,visible,A relaxed everyday dress with an easy drape and soft feel.,89.00,59.00,Dresses,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/relaxed-dress.jpg
+simple,BH-1002,Bucket Hat,1,0,visible,A casual bucket hat for everyday styling.,29.00,19.00,Accessories,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/bucket-hat.jpg
+simple,PJ-1003,Puffer Jacket,1,0,visible,A warm padded jacket with a high collar and relaxed fit.,149.00,99.00,Outerwear,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/puffer-jacket.jpg
+simple,PS-1004,Poplin Shirt,1,0,visible,"A crisp poplin shirt with a clean, modern silhouette.",59.00,39.00,Shirts,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/poplin-shirt.jpg
+simple,CO-1005,Corduroy Overshirt,1,0,visible,A textured corduroy overshirt designed for easy layering.,79.00,49.00,Shirts,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/cordorouy-overshirt.jpg
+simple,OX-1006,Oxford Shirt,1,0,visible,A classic oxford shirt with a structured feel and timeless look.,69.00,45.00,Shirts,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/oxford-shirt.jpg
+simple,PF-1007,Platform Shoes,1,0,visible,Platform shoes with a bold sole and everyday comfort.,119.00,79.00,Footwear,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/platform-shoes.jpg
+simple,CS-1008,Colorful Socks,1,0,visible,A bright pair of socks made to add color to casual outfits.,18.00,12.00,Accessories,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/colorful-socks.jpg
+simple,OS-1009,Oversized Sweater,1,0,visible,A soft oversized sweater with a chunky knit texture.,99.00,69.00,Knitwear,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/oversized-sweater.jpg
+simple,TS-1010,Turtleneck Sweater,1,0,visible,A cozy turtleneck sweater with a relaxed knit finish.,89.00,59.00,Knitwear,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/turtleneck-sweater.jpg
+simple,CB-1011,Chain Bracelet,1,0,visible,A polished chain bracelet with a simple statement look.,39.00,25.00,Jewelry,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/chain-bracelet.jpg
+simple,RJ-1012,Relaxed Jacket,1,0,visible,A versatile relaxed jacket for everyday layering.,129.00,89.00,Outerwear,https://raw.githubusercontent.com/adrianduffell/store-theme/main/images/relaxed-jacket.jpg
